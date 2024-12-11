@@ -1,0 +1,22 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  .app-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    background: linear-gradient(to right, #ff7e5f, #feb47b); /* Градиентный фон */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Легкая тень */
+  }
+  
+  .app-header h1 {
+    color: white;
+    font-size: 24px;
+    margin: 0;
+  }
+  
